@@ -1,0 +1,4 @@
+lab1_binary
+*.exe
+*.test
+.DS_Store
